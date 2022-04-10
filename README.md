@@ -1,6 +1,11 @@
 # bank-campaign-pyspark-machine-learning
 Bank campaign analysis using machine learning with pyspark
 
+[//]: # (<img src="https://user-images.githubusercontent.com/69020265/162612014-ce0e196c-cd5c-4ef3-a311-68698bdd7652.png" alt="drawing" width="200"/>)
+<img src="https://user-images.githubusercontent.com/69020265/162612163-f839c2a1-bdd6-410b-8126-731236b08e86.png" alt="drawing" width="200"/>
+
+
+
 # Data Set
 
 https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
